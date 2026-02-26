@@ -1,4 +1,5 @@
 🎯 Customer Segmentation using RFM Analysis
+
 📝 Project Overview
 
 This project applies the RFM (Recency, Frequency, Monetary) model to segment customers of an online retail store. By analyzing over 500,000 transactions, I classified customers into distinct groups to help the marketing team design targeted campaigns and improve customer retention.
